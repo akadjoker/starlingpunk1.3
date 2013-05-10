@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="isometric" width="20" height="20" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" name="iso-64x64-outside" tilewidth="64" tileheight="64">
+  <image source="iso-64x64-outside.png" width="640" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="20">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,2,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+</data>
+ </layer>
+ <objectgroup name="Events" width="20" height="20">
+  <object name="camera1" type="moveCamera" x="278" y="276" width="19" height="21">
+   <properties>
+    <property name="duration" value="1"/>
+    <property name="ease" value="expoIn"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Triggers" width="20" height="20">
+  <object name="startUp" type="alarm" x="154" y="70" width="53" height="22">
+   <properties>
+    <property name="duration" value=".1"/>
+    <property name="event" value="camera1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

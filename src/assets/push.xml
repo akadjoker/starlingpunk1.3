@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- Created with Alegro Slicer By Luis Santos AKA Djoker -->
+<TextureAtlas imagePath="heropush.PNG">
+<SubTexture name="push_0" x="0" y="0" width="92" height="100"/> 
+<SubTexture name="push_1" x="92" y="0" width="92" height="100"/> 
+<SubTexture name="push_2" x="184" y="0" width="92" height="100"/> 
+<SubTexture name="push_3" x="276" y="0" width="92" height="100"/> 
+<SubTexture name="push_4" x="368" y="0" width="92" height="100"/> 
+<SubTexture name="push_5" x="0" y="100" width="92" height="100"/> 
+<SubTexture name="push_6" x="92" y="100" width="92" height="100"/> 
+<SubTexture name="push_7" x="184" y="100" width="92" height="100"/> 
+<SubTexture name="push_8" x="276" y="100" width="92" height="100"/> 
+<SubTexture name="push_9" x="368" y="100" width="92" height="100"/> 
+<SubTexture name="push_10" x="0" y="200" width="92" height="100"/> 
+<SubTexture name="push_11" x="92" y="200" width="92" height="100"/> 
+<SubTexture name="push_12" x="184" y="200" width="92" height="100"/> 
+<SubTexture name="push_13" x="276" y="200" width="92" height="100"/> 
+<SubTexture name="push_14" x="368" y="200" width="92" height="100"/> 
+<SubTexture name="push_15" x="0" y="300" width="92" height="100"/> 
+<SubTexture name="push_16" x="92" y="300" width="92" height="100"/> 
+<SubTexture name="push_17" x="184" y="300" width="92" height="100"/> 
+<SubTexture name="push_18" x="276" y="300" width="92" height="100"/> 
+<SubTexture name="push_19" x="368" y="300" width="92" height="100"/> 
+<SubTexture name="push_20" x="0" y="400" width="92" height="100"/> 
+<SubTexture name="push_21" x="92" y="400" width="92" height="100"/> 
+<SubTexture name="push_22" x="184" y="400" width="92" height="100"/> 
+<SubTexture name="push_23" x="276" y="400" width="92" height="100"/> 
+<SubTexture name="push_24" x="368" y="400" width="92" height="100"/> 
+<SubTexture name="push_25" x="0" y="500" width="92" height="100"/> 
+<SubTexture name="push_26" x="92" y="500" width="92" height="100"/> 
+<SubTexture name="push_27" x="184" y="500" width="92" height="100"/> 
+<SubTexture name="push_28" x="276" y="500" width="92" height="100"/> 
+<SubTexture name="push_29" x="368" y="500" width="92" height="100"/> 
+<SubTexture name="push_30" x="0" y="600" width="92" height="100"/> 
+<SubTexture name="push_31" x="92" y="600" width="92" height="100"/> 
+<SubTexture name="push_32" x="184" y="600" width="92" height="100"/> 
+<SubTexture name="push_33" x="276" y="600" width="92" height="100"/> 
+<SubTexture name="push_34" x="368" y="600" width="92" height="100"/> 
+<SubTexture name="push_35" x="0" y="700" width="92" height="100"/> 
+<SubTexture name="push_36" x="92" y="700" width="92" height="100"/> 
+<SubTexture name="push_37" x="184" y="700" width="92" height="100"/> 
+<SubTexture name="push_38" x="276" y="700" width="92" height="100"/> 
+<SubTexture name="push_39" x="368" y="700" width="92" height="100"/> 
+</TextureAtlas>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- Created with Alegro Slicer By Luis Santos AKA Djoker -->
+<TextureAtlas imagePath="herowalk.PNG">
+<SubTexture name="walk_0" x="0" y="0" width="80" height="102"/> 
+<SubTexture name="walk_1" x="80" y="0" width="80" height="102"/> 
+<SubTexture name="walk_2" x="160" y="0" width="80" height="102"/> 
+<SubTexture name="walk_3" x="240" y="0" width="80" height="102"/> 
+<SubTexture name="walk_4" x="320" y="0" width="80" height="102"/> 
+<SubTexture name="walk_5" x="400" y="0" width="80" height="102"/> 
+<SubTexture name="walk_6" x="0" y="102" width="80" height="102"/> 
+<SubTexture name="walk_7" x="80" y="102" width="80" height="102"/> 
+<SubTexture name="walk_8" x="160" y="102" width="80" height="102"/> 
+<SubTexture name="walk_9" x="240" y="102" width="80" height="102"/> 
+<SubTexture name="walk_10" x="320" y="102" width="80" height="102"/> 
+<SubTexture name="walk_11" x="400" y="102" width="80" height="102"/> 
+<SubTexture name="walk_12" x="0" y="204" width="80" height="102"/> 
+<SubTexture name="walk_13" x="80" y="204" width="80" height="102"/> 
+<SubTexture name="walk_14" x="160" y="204" width="80" height="102"/> 
+<SubTexture name="walk_15" x="240" y="204" width="80" height="102"/> 
+<SubTexture name="walk_16" x="320" y="204" width="80" height="102"/> 
+<SubTexture name="walk_17" x="400" y="204" width="80" height="102"/> 
+<SubTexture name="walk_18" x="0" y="306" width="80" height="102"/> 
+<SubTexture name="walk_19" x="80" y="306" width="80" height="102"/> 
+<SubTexture name="walk_20" x="160" y="306" width="80" height="102"/> 
+<SubTexture name="walk_21" x="240" y="306" width="80" height="102"/> 
+<SubTexture name="walk_22" x="320" y="306" width="80" height="102"/> 
+<SubTexture name="walk_23" x="400" y="306" width="80" height="102"/> 
+<SubTexture name="walk_24" x="0" y="408" width="80" height="102"/> 
+<SubTexture name="walk_25" x="80" y="408" width="80" height="102"/> 
+<SubTexture name="walk_26" x="160" y="408" width="80" height="102"/> 
+<SubTexture name="walk_27" x="240" y="408" width="80" height="102"/> 
+<SubTexture name="walk_28" x="320" y="408" width="80" height="102"/> 
+<SubTexture name="walk_29" x="400" y="408" width="80" height="102"/> 
+<SubTexture name="walk_30" x="0" y="510" width="80" height="102"/> 
+<SubTexture name="walk_31" x="80" y="510" width="80" height="102"/> 
+<SubTexture name="walk_32" x="160" y="510" width="80" height="102"/> 
+<SubTexture name="walk_33" x="240" y="510" width="80" height="102"/> 
+<SubTexture name="walk_34" x="320" y="510" width="80" height="102"/> 
+<SubTexture name="walk_35" x="400" y="510" width="80" height="102"/> 
+</TextureAtlas>

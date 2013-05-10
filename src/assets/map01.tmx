@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="30" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="tiles" tilewidth="8" tileheight="8">
+  <image source="tiles.png" width="128" height="8"/>
+ </tileset>
+ <layer name="map" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzNl9EOgzAIRat1Ohed/v/XziY2YwQYYKuS3GwPLT2llGITQmhurGFTt2ndNYD/Vo2bJkYtGDcz4zk+Lw/WO/D2dIxfEJ+0f01cpPU6Yu7LyCf5l/wcmS/5LcEH4yLFw2ql+LQ2A2lMw7cUo/tyaRlLxW/Y/SyKdWf0ewaf5X5czfcIchypHITxh4oV+Dx+qPlZma8Pv/u3KJ7AZ3lHNbLUQcwHewGOr2YdpPggExU/HC/vOzApxowE37/zleLF3S9J2jeiBF+ab81Ha/5R/lsDX8185PzD+nwlX7obVLwhH1X3c97Fwnw9I4kvnz/cR62+Tmva880Wd5W2tD513z18Nezo/UgGYyfVQ0vdgxzUuw/7Fw1fNuo77Eieauoz5vfEwWue/uXs/sDK5+kDvaL6R8x3VyW+DzYtGd0=
+  </data>
+ </layer>
+ <objectgroup name="objects" width="40" height="30">
+  <object type="dispenser" x="37" y="37" width="13" height="14">
+   <properties>
+    <property name="maxvx" value="250"/>
+    <property name="maxvy" value="20"/>
+    <property name="minvx" value="120"/>
+    <property name="minvy" value="-50"/>
+    <property name="quantity" value="0.05"/>
+   </properties>
+  </object>
+  <object type="elevator" x="195" y="105" width="14" height="93"/>
+  <object type="crate" x="184" y="79"/>
+  <object type="crate" x="269" y="30" width="14" height="13"/>
+  <object type="crate" x="108" y="170"/>
+  <object type="crate" x="126" y="155"/>
+  <object type="crate" x="128" y="177"/>
+  <object type="crate" x="142" y="164"/>
+  <object type="crate" x="99" y="119"/>
+  <object type="player" x="18" y="140" width="10" height="11"/>
+  <object type="pusher" x="109" y="212" width="72" height="6"/>
+ </objectgroup>
+</map>

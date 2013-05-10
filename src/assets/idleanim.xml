@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="idleanim.png"> 
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!--  -->
+    <SubTexture name="idle_0" x="0" y="0" width="34" height="105"/>
+    <SubTexture name="idle_1" x="34" y="0" width="34" height="105"/>
+    <SubTexture name="idle_2" x="408" y="0" width="34" height="105"/>
+    <SubTexture name="idle_3" x="272" y="105" width="34" height="105"/>
+    <SubTexture name="idle_4" x="340" y="105" width="34" height="105"/>
+    <SubTexture name="idle_5" x="374" y="105" width="34" height="105"/>
+    <SubTexture name="idle_6" x="408" y="105" width="34" height="105"/>
+    <SubTexture name="idle_7" x="442" y="105" width="34" height="105"/>
+    <SubTexture name="idle_8" x="476" y="105" width="34" height="105"/>
+    <SubTexture name="idle_9" x="0" y="210" width="34" height="105"/>
+    <SubTexture name="idle_10" x="68" y="0" width="34" height="105"/>
+    <SubTexture name="idle_11" x="102" y="0" width="34" height="105"/>
+    <SubTexture name="idle_12" x="136" y="0" width="34" height="105"/>
+    <SubTexture name="idle_13" x="170" y="0" width="34" height="105"/>
+    <SubTexture name="idle_14" x="204" y="0" width="34" height="105"/>
+    <SubTexture name="idle_15" x="238" y="0" width="34" height="105"/>
+    <SubTexture name="idle_16" x="272" y="0" width="34" height="105"/>
+    <SubTexture name="idle_17" x="306" y="0" width="34" height="105"/>
+    <SubTexture name="idle_18" x="340" y="0" width="34" height="105"/>
+    <SubTexture name="idle_19" x="374" y="0" width="34" height="105"/>
+    <SubTexture name="idle_20" x="442" y="0" width="34" height="105"/>
+    <SubTexture name="idle_21" x="476" y="0" width="34" height="105"/>
+    <SubTexture name="idle_22" x="0" y="105" width="34" height="105"/>
+    <SubTexture name="idle_23" x="34" y="105" width="34" height="105"/>
+    <SubTexture name="idle_24" x="68" y="105" width="34" height="105"/>
+    <SubTexture name="idle_25" x="102" y="105" width="34" height="105"/>
+    <SubTexture name="idle_26" x="136" y="105" width="34" height="105"/>
+    <SubTexture name="idle_27" x="170" y="105" width="34" height="105"/>
+    <SubTexture name="idle_28" x="204" y="105" width="34" height="105"/>
+    <SubTexture name="idle_29" x="238" y="105" width="34" height="105"/>
+    <SubTexture name="idle_30" x="306" y="105" width="34" height="105"/>
+</TextureAtlas>
